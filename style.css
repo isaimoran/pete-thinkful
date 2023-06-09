@@ -38,7 +38,15 @@ footer {
 
 p {
   line-height: 1.5;
-  
+  padding: 0 40px 0 40px;
+}
+
+ul{
+  padding: 0 0 0 80px;
+}
+
+ol{
+  padding: 0 0 0 80px;
 }
 
 /* The div container constrains the content width within the main container to 600px */
